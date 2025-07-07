@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:mylove/const/colors.dart';
 import 'package:mylove/const/fonts.dart';
 import 'package:mylove/const/responsive.dart';
-import 'package:mylove/pages/main_page.dart';
+import 'package:mylove/pages/love_onboarding_screen.dart'; 
 
 void main() {
   runApp(const MyApp());
@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
           showUnselectedLabels: true,
         ),
       ),
-      home: MainPage(),
+      home: LoveEntryScreen(),
     );
   }
 }

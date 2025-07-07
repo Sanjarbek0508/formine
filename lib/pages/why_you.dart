@@ -225,12 +225,8 @@ class _FloatingHeartsState extends State<FloatingHearts> with TickerProviderStat
           left: Random().nextDouble() * MediaQuery.of(context).size.width,
         );
         setState(() {
+          if (_hearts.length > 1000) _hearts.removeAt(0);
           _hearts.add(heart);
-        });
-
-        // Clean up after it floats off screen
-        Future.delayed(const Duration(seconds: 6), () {
-          setState(() => _hearts.remove(heart));
         });
       }
     });

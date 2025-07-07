@@ -18,7 +18,6 @@ class MainPage extends HookWidget {
 
     final screens = [
       HomeScreen(),
-      GalleryScreen(),
       MyFeelingTowardsYou(),
       WhyYouScreen(),
     ];
@@ -46,11 +45,7 @@ class MainPage extends HookWidget {
             label: "Home",
           ),
           BottomNavigationBarItem(
-            icon: Icon(CupertinoIcons.photo),
-            label: "Moments",
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(IconsaxPlusBold.user),
+            icon: Icon(IconsaxPlusBold.cloud),
             label: "My Feelings",
           ),
           BottomNavigationBarItem(

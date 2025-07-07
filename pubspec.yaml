@@ -41,6 +41,8 @@ dependencies:
   intl: ^0.20.2
   url_launcher: ^6.3.1
   iconsax_flutter: ^1.0.1
+  introduction_screen: ^3.1.17
+  lottie: ^3.3.1
 
 dev_dependencies:
   flutter_test:
