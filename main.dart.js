@@ -64223,7 +64223,7 @@ $1(a){this.a.sq(0,a)
 this.b.a3b(a)},
 $S:12}
 A.E0.prototype={
-K(a){var s,r=null,q=864e8,p="Italianno",o=A.Rm(2024,12,26,0,0,0,0),n=A.Rm(2025,5,22,0,0,0,0),m=new A.dy(Date.now(),0,!1),l=B.h.du(m.d1(o).a,q),k=B.h.du(m.d1(n).a,q),j=new A.Yl(),i=A.nD(r,r,r,B.Mc),h=A.dv(r,r,B.u,r,r,B.cC,r,r,r,r,r,r,r)
+K(a){var s,r=null,q=864e8,p="Italianno",o=A.Rm(2024,11,15,0,0,0,0),n=A.Rm(2025,5,22,0,0,0,0),m=new A.dy(Date.now(),0,!1),l=B.h.du(m.d1(o).a,q),k=B.h.du(m.d1(n).a,q),j=new A.Yl(),i=A.nD(r,r,r,B.Mc),h=A.dv(r,r,B.u,r,r,B.cC,r,r,r,r,r,r,r)
 $.aa()
 s=t.E
 return A.ku(i,r,A.ha(B.aF,A.c([h,B.A4,A.B5(A.dv(r,r,B.u,B.k.jS(0.01),r,r,r,r,r,r,r,r,r),new A.je(5,5,r)),A.rw(new A.d7(B.fO,A.ix(A.c([A.c_("\ud83d\udde8\ufe0f First Talked\n"+l+" days ago",A.bP(r,r,B.x,r,r,r,r,r,p,r,r,26,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.bT),A.c_("Since "+A.m(j.$1(o)),A.bP(r,r,B.y,r,r,r,r,r,p,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),B.I5,A.c_("\ud83d\udc9e Officially Together\n"+k+" days ago",A.bP(r,r,B.pN,r,r,r,r,r,p,r,r,26,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.bT),A.c_("Since "+A.m(j.$1(n)),A.bP(r,r,B.y,r,r,r,r,r,p,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),B.I7,B.Ao],s),B.aI,B.hC,B.aB),r),r,r)],s),B.aO),r)}}
